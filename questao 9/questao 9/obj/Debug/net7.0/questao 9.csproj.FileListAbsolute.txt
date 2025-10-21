@@ -1,0 +1,15 @@
+D:\avaliação 2\questao 9\questao 9\bin\Debug\net7.0\questao 9.exe
+D:\avaliação 2\questao 9\questao 9\bin\Debug\net7.0\questao 9.deps.json
+D:\avaliação 2\questao 9\questao 9\bin\Debug\net7.0\questao 9.runtimeconfig.json
+D:\avaliação 2\questao 9\questao 9\bin\Debug\net7.0\questao 9.dll
+D:\avaliação 2\questao 9\questao 9\bin\Debug\net7.0\questao 9.pdb
+D:\avaliação 2\questao 9\questao 9\obj\Debug\net7.0\questao 9.csproj.AssemblyReference.cache
+D:\avaliação 2\questao 9\questao 9\obj\Debug\net7.0\questao 9.GeneratedMSBuildEditorConfig.editorconfig
+D:\avaliação 2\questao 9\questao 9\obj\Debug\net7.0\questao 9.AssemblyInfoInputs.cache
+D:\avaliação 2\questao 9\questao 9\obj\Debug\net7.0\questao 9.AssemblyInfo.cs
+D:\avaliação 2\questao 9\questao 9\obj\Debug\net7.0\questao 9.csproj.CoreCompileInputs.cache
+D:\avaliação 2\questao 9\questao 9\obj\Debug\net7.0\questao 9.dll
+D:\avaliação 2\questao 9\questao 9\obj\Debug\net7.0\refint\questao 9.dll
+D:\avaliação 2\questao 9\questao 9\obj\Debug\net7.0\questao 9.pdb
+D:\avaliação 2\questao 9\questao 9\obj\Debug\net7.0\questao 9.genruntimeconfig.cache
+D:\avaliação 2\questao 9\questao 9\obj\Debug\net7.0\ref\questao 9.dll
