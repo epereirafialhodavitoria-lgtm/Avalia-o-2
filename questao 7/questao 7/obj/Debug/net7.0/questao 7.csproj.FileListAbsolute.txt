@@ -1,0 +1,15 @@
+D:\avaliação 2\questao 7\questao 7\bin\Debug\net7.0\questao 7.exe
+D:\avaliação 2\questao 7\questao 7\bin\Debug\net7.0\questao 7.deps.json
+D:\avaliação 2\questao 7\questao 7\bin\Debug\net7.0\questao 7.runtimeconfig.json
+D:\avaliação 2\questao 7\questao 7\bin\Debug\net7.0\questao 7.dll
+D:\avaliação 2\questao 7\questao 7\bin\Debug\net7.0\questao 7.pdb
+D:\avaliação 2\questao 7\questao 7\obj\Debug\net7.0\questao 7.csproj.AssemblyReference.cache
+D:\avaliação 2\questao 7\questao 7\obj\Debug\net7.0\questao 7.GeneratedMSBuildEditorConfig.editorconfig
+D:\avaliação 2\questao 7\questao 7\obj\Debug\net7.0\questao 7.AssemblyInfoInputs.cache
+D:\avaliação 2\questao 7\questao 7\obj\Debug\net7.0\questao 7.AssemblyInfo.cs
+D:\avaliação 2\questao 7\questao 7\obj\Debug\net7.0\questao 7.csproj.CoreCompileInputs.cache
+D:\avaliação 2\questao 7\questao 7\obj\Debug\net7.0\questao 7.dll
+D:\avaliação 2\questao 7\questao 7\obj\Debug\net7.0\refint\questao 7.dll
+D:\avaliação 2\questao 7\questao 7\obj\Debug\net7.0\questao 7.pdb
+D:\avaliação 2\questao 7\questao 7\obj\Debug\net7.0\questao 7.genruntimeconfig.cache
+D:\avaliação 2\questao 7\questao 7\obj\Debug\net7.0\ref\questao 7.dll
