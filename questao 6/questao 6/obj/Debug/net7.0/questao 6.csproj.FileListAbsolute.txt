@@ -1,0 +1,15 @@
+D:\avaliação 2\questao 6\questao 6\bin\Debug\net7.0\questao 6.exe
+D:\avaliação 2\questao 6\questao 6\bin\Debug\net7.0\questao 6.deps.json
+D:\avaliação 2\questao 6\questao 6\bin\Debug\net7.0\questao 6.runtimeconfig.json
+D:\avaliação 2\questao 6\questao 6\bin\Debug\net7.0\questao 6.dll
+D:\avaliação 2\questao 6\questao 6\bin\Debug\net7.0\questao 6.pdb
+D:\avaliação 2\questao 6\questao 6\obj\Debug\net7.0\questao 6.csproj.AssemblyReference.cache
+D:\avaliação 2\questao 6\questao 6\obj\Debug\net7.0\questao 6.GeneratedMSBuildEditorConfig.editorconfig
+D:\avaliação 2\questao 6\questao 6\obj\Debug\net7.0\questao 6.AssemblyInfoInputs.cache
+D:\avaliação 2\questao 6\questao 6\obj\Debug\net7.0\questao 6.AssemblyInfo.cs
+D:\avaliação 2\questao 6\questao 6\obj\Debug\net7.0\questao 6.csproj.CoreCompileInputs.cache
+D:\avaliação 2\questao 6\questao 6\obj\Debug\net7.0\questao 6.dll
+D:\avaliação 2\questao 6\questao 6\obj\Debug\net7.0\refint\questao 6.dll
+D:\avaliação 2\questao 6\questao 6\obj\Debug\net7.0\questao 6.pdb
+D:\avaliação 2\questao 6\questao 6\obj\Debug\net7.0\questao 6.genruntimeconfig.cache
+D:\avaliação 2\questao 6\questao 6\obj\Debug\net7.0\ref\questao 6.dll
